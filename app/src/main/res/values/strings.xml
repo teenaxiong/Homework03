@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="limitTextView">Limit:</string>
+    <string name="searchButton">Search</string>
+    <string name="resetButton">Reset</string>
+    <string name="sortTextView">Sort by:</string>
+    <string name="priceTextView">Price</string>
+    <string name="dateTextView">Date</string>
+    <string name="trackLabel">Track:</string>
+    <string name="genreLabel">Genre:</string>
+    <string name="artistLabel">Artist:</string>
+    <string name="albumLabel">Album:</string>
+    <string name="trackPriceLabel">Track Price:</string>
+    <string name="albumPriceLabel">Album Price:</string>
+    <string name="finishButton">Finish</string>
+    <string name="resultsLabel">Results:</string>
+    <string name="track">  <![CDATA[<strong>Track: </strong> ]]>  " " </string>
+    <string name="price"><![CDATA[<strong>Price: </strong> ]]>  " " $</string>
+    <string name="date"><![CDATA[<strong>Date: </strong> ]]>  " " </string>
+    <string name="artist"><![CDATA[<strong>Artist: </strong> ]]>  " " </string>
+    <string name="money">$</string>
+    <string name="resultLabel">Results:</string>
+    <string name="dateSwitch">D</string>
+    <string name="priceSwitch">P</string>
+</resources>
